@@ -1,5 +1,5 @@
 # ytark2.github.io
-<!DOCTYPE html>
+
 <html lang="en">
  <head>
    <title>TITLE</title>
@@ -12,14 +12,33 @@
      <div class="container">
        <div class="row centered">
          <div class="col-lg-12">
-           <h1>Your Name</h1>
-           <h3>What you do | 
-            <a href="mailto:You@Email.com">You@Email.com</a>
+           <h1>Youjin (nana) Tark</h1>
+           <h3>Statistics and Computer Science | 
+            <a href="mailto:You@Email.com">ytark2@illinois.edu</a>
            </h3>
          </div><!--/.col-lg-12-->
        </div><!--/.row-->
      </div><!--/.container-->
    </div><!--/.#headerwrap-->
+   
+   
+<section id="about" name="about"></section>
+ <div class="about">
+   <div class="container">
+     <div class="row"> 
+       <div class="col-lg-2 col-lg-offset-1">
+         <h5>ABOUT</h5>
+       </div>
+       <div class="col-lg-6">
+<p>This is a short description of who you are. Keep it to about 3 sentences and make sure to highlight the key points about you. What makes you stand out as an applicant?</p>
+</div>
+       <div class="col-lg-3">
+         <p><a href="my-resume.pdf"><i class="icon-file"></i> <sm>DOWNLOAD PDF</sm></a></p>
+       </div>
+ 
+     </div><!--/.row-->
+   </div><!--/.container-->
+ </div><!--/ #intro-->
  
 
 </body>
