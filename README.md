@@ -33,7 +33,7 @@
 <p>This is a short description of who you are. Keep it to about 3 sentences and make sure to highlight the key points about you. What makes you stand out as an applicant?</p>
 </div>
        <div class="col-lg-3">
-         <p><a href="my-resume.pdf"><i class="icon-file"></i> <sm>DOWNLOAD PDF</sm></a></p>
+         <p><a href="Nana Tark"><i class="icon-file"></i> <sm>DOWNLOAD PDF</sm></a></p>
        </div>
  
      </div><!--/.row-->
