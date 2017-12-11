@@ -65,7 +65,7 @@
 </div>
 
 </body>
-</html>
+
 
 /* Layout */
 
@@ -207,3 +207,4 @@ ul {
 	font:normal 18px Georgia, serif;
 	color:#fa7393;
 }
+</html>
